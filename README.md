@@ -25,7 +25,7 @@
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠉⠙⠻⠟⠀⠀
 ```
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,react,nodejs,symfony,go,python,docker,instagram&perline=11" height="32" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,react,nodejs,symfony,go,python,docker&perline=11" height="32" alt="Tech Stack" />
 
 <br />
 
